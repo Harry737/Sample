@@ -33,7 +33,7 @@ foreach (var dese in myDeserializedClass1.jobs)
         Sample.Root myDeserializedClass = JsonConvert.DeserializeObject<Sample.Root>(response.Content);
         foreach (var item in myDeserializedClass.actions)
         {
-            //Console.
+            
             if (item.build != null)
             {
                 //Console.WriteLine(dese.name + " - " + item.build.marked.branch[0].name);
