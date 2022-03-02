@@ -13,6 +13,7 @@ namespace ConsoleApp1
         {
             public string _class { get; set; }
             public string shortDescription { get; set; }
+            //o
         }
 
         public class Branch
