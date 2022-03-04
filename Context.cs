@@ -9,6 +9,5 @@ namespace ConsoleApp1
     internal class Context
     {
         //Console.WriteLine();
-        //C
     }
 }
